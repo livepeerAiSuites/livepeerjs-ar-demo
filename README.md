@@ -18,7 +18,7 @@ Plugin:[Livepeerjs-ar](https://github.com/livepeer-ssai/IMA-Adwrapper-Livepeer)
 ## Installation
 To install the SDK package from npm, use the following command:
 ```
-   npm install 
+   npm i livepeerar.js
 ```
 ## Requirements
 Browser Compatibility: Supports all major browsers.
