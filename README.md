@@ -134,6 +134,15 @@ The sdk support the use of DEEPAR filters by integrating DEEPAR library. Develop
 
 ```
 
+
+
 You can get the liscense_key from your DEEPAR developer Dashboard portal
 
 ### Other integration: BANUBA coming soon
+
+## Code Implementation Tutorial
+
+This section provides a concise overview of how to implement these features from scratch.
+  #### Virtual backgrounds
+   
+
