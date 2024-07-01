@@ -5,8 +5,7 @@
 3. Features
 4. Customization
 5. DEEPAR and Other integration
-6. Code Implementation Tutorial
-7. Resources
+
 
 ## Overview
 This SDK/package is your go-to solution for enhancing the Livepeer Broadcast components with virtual filters and augmented reality such as Virtual backgrounds, AR filters, Faceless streaming etc.Whether you're a developer looking to build Tiktok/snapchat clones or build out Virtual-try-on products on the Livepeer infrastruture, this code sample and SDK will help you achieve these in a short time.
@@ -140,9 +139,6 @@ You can get the liscense_key from your DEEPAR developer Dashboard portal
 
 ### Other integration: BANUBA coming soon
 
-## Code Implementation Tutorial
 
-This section provides a concise overview of how to implement these features from scratch.
-  #### Virtual backgrounds
    
 
