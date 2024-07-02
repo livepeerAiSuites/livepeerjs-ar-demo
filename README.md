@@ -1,4 +1,5 @@
 # Documentation - Client-side AI compute[Livepeerjs-AR]:A plugin for Livepeer Broadcast component (powered by Livepeer)
+ ![livepeerar.js](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ws-cs-ibsYcPv7_U0VJtqQ.png)
 ## Content
 1. Overview
 2. Installation
@@ -107,6 +108,8 @@ Browser Compatibility: Supports all major browsers.
 ```
 
 3. AR Faceless streaming: this feature is for streamers that want to maintain or remain anonymous. With the sdk , a streamer can simply upload or drag and drop is Avatar into the Broadcast component. The Avatar mimicks every face motion and gestures of the user.
+
+   ![ar-faceless-streaming](https://firebasestorage.googleapis.com/v0/b/reach-nft-auction.appspot.com/o/Screen%20Shot%202024-07-02%20at%2010.42.49%20AM.png?alt=media&token=ed343633-b687-4ee7-98e9-8e95c19619e0)
 
 
 
